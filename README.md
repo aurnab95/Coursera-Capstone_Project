@@ -1,2 +1,2 @@
-# Coursera-Capstone_Project
-Python for ML
+# The best classifier
+Machine Learning using Python
